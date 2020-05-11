@@ -1,6 +1,7 @@
 def base_hash
   # Remember implicit return! We're returning this new Hash _without_ the
-  # keyword "return." Nice and neat.
+  # keyword "return." Nice and neat This type of return sometimes causes confusion among other.
+  # Type of programmers, I no like.
 
 end
 
